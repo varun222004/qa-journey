@@ -1,21 +1,24 @@
-# 📅 Day 02 — [Title Here]
+# 📅 Day 02 — Bug Reporting & Product Flow
 
-**Date:** [YYYY-MM-DD]  
-**Track:** 🧪 QA Automation / 📱 Flutter / 🧠 DSA  *(delete as needed)*
+**Date:** 2026-03-24  
+**Track:** 🧪 QA / Work
 
 ---
 
 ## ✅ What I Did Today
-- 
+- Reported bugs found during exploratory testing at work
+- Studied and mapped out the product flow end to end
+- Understood how different modules connect with each other
 
 ## 🧠 What I Learned
-- 
-
-## 🐛 Bugs / Blockers I Hit
-- *(leave blank if none)*
+- How to trace a bug back to the exact step in the user flow
+- Product understanding is just as important as testing skills
+- The more you know the product, the better bugs you find
 
 ## 🎯 Tomorrow's Goal
-- 
+- Continue exploring the product
+- Start setting up Postman for API testing practice
 
 ## 💭 Thoughts
-*(optional — anything on your mind)*
+Understanding the product flow is underrated as a QA skill.
+You can't break what you don't understand. 🧪
